@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Vaibhav</h1>
+<h3 align="center">A curious coder & full-stack dev crafting digital magic ✨</h3>
 
-<!--
-**iamvaibhav15/iamvaibhav15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+- Leveling up projects that mix 🔥 UI/UX with solid backend skills.
+- Exploring new tech like **Next.js**, **TypeScript**, and AI integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning journey right now:
+- 🧠 Diving deep into **Machine Learning**, **Generative AI**, and **system design**.
+- 📚 Sharpening my game in **Data Structures & Algorithms**.
+
+👯 Always down to collaborate on:
+- 💡 Open-source projects with good vibes and real-world impact.
+- 🧪 Anything experimental with cool tech—especially AI + Web fusion!
+
+💬 Ask me about:
+- MERN stack, API design, cloud deployment, and side project strategies.
+- Or anything techy, tbh—I'm always up to jam on code ideas.
+
+📫 Reach me at:
+- **vaibhav15.dev@gmail.com**
+
+📱 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)
+[![Instagram](https://img.shields.io/badge/@vaibhav15-purple?style=flat&logo=instagram)](https://www.instagram.com/your-handle)
+[![Twitter/X](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://twitter.com/your-handle)
+
+---
+
+### 🛠️ Tech Stack & Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamvaibhav15&show_icons=true&theme=tokyonight" alt="Vaibhav's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamvaibhav15&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📌 Pinned Projects
+<!-- Replace these with your actual pinned repo names once added -->
+- 🔗 [Vizulytics](https://github.com/iamvaibhav15/Vizulytics): Short tagline of what it does.
+- 🔗 [Portfolio-Website](https://github.com/iamvaibhav15/Portfolio-Website): Short tagline of what it does.
+
+---
+
+Thanks for stopping by 😄  
+Let’s build something awesome together! 🚀
+
