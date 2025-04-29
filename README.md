@@ -23,9 +23,8 @@
 - **vaibhav15.dev@gmail.com**
 
 📱 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)
-[![Instagram](https://img.shields.io/badge/@vaibhav15-purple?style=flat&logo=instagram)](https://www.instagram.com/your-handle)
-[![Twitter/X](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://twitter.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/im-vaibhav15)
+[![Twitter/X](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://twitter.com/VaibhavV2003)
 
 ---
 
