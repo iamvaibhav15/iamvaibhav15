@@ -23,7 +23,7 @@
 <br>
 
 <div align = "center">
-  <img height="300px" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+  <img height="250px" width="450px" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 </div>
 
 ## 👨‍💻 `whoami`
